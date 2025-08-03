@@ -26,8 +26,10 @@ A basic cryptographic hardware accelerator with an XOR cipher on a Basys 3 FPGA.
 3. Observe 8-bit ciphertext on LED[7:0]
 
 ## 📽️ Demo Output
-- 
-
+- <img width="815" height="212" alt="image" src="https://github.com/user-attachments/assets/8bc70a7f-c385-427c-853c-b4a9ae597fef" />
+- <img width="1168" height="415" alt="image" src="https://github.com/user-attachments/assets/c9055f9f-96e0-4853-85e0-29118ecda131" />
+- <img width="978" height="75" alt="image" src="https://github.com/user-attachments/assets/fda93172-86ee-47c3-9246-98b258a6e3e9" />
+- <img width="866" height="409" alt="image" src="https://github.com/user-attachments/assets/d8802a05-fb43-4f4f-b049-0943702dbe6f" />
 
 ## 📚 Applications
 - Encryption for IoT devices
@@ -56,4 +58,4 @@ A basic cryptographic hardware accelerator with an XOR cipher on a Basys 3 FPGA.
 - Rithika
 - Devika
 - Abhijith
-**Institution**: [Your University or Lab Name]
+**Institution**: Amrita Vishwa Vidhyapeetham, Amritapuri
