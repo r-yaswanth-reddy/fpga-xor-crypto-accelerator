@@ -15,9 +15,12 @@ A basic cryptographic hardware accelerator with an XOR cipher on a Basys 3 FPGA.
 - Of educational value and as a starting point for more secure designs such as AES
 
 ##  📦  Files Included
+- `clk_div.v`: Clock divider module (for timing control)
+- `top_xor_cipher.v`: Top-level module combining everything
 - `xor_cipher.v`: Verilog module for XOR encryption
-- `xor_cipher_tb.v`: Verilog testbench
-- `constraints.xdc`: Basys 3 constraints file
+- `xor_decipher.v`: Verilog module for XOR decryption
+- `tb_xor_cipher.v`: Verilog testbench
+- `master.xdc`: Basys 3 constraints file
 - `README.md`: This documentation file
 
 ## 🧪 How It Works
